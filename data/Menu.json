@@ -1,0 +1,86 @@
+{
+  "MENU": {
+    "COMIDA": {
+      "HAMBURGUESA": [
+        "MALICIA",
+        "SOBERBIA",
+        "GULA",
+        "ALMA EN PENA",
+        "ENCARNACIÓN",
+        "BANANA LIMBO"
+      ],
+      "ENSALADA": ["DELÍRIUM", "PARAÍSO PERDIDO"],
+      "HOTDOG": [
+        "JOCHOSLAW",
+        "XOLOESCUINTLE",
+        "PITBULL",
+        "HACHIKO",
+        "PASTOR ALEMÁN"
+      ],
+      "PIZZA": [
+        "CHANQUE",
+        "SODOMA",
+        "LUJURIA",
+        "ÁNGEL CAÍDO",
+        "PURGATORIO",
+        "TIKI-HAWAIANA",
+        "MARGARITA"
+      ]
+    },
+    "BEBIDAS": {
+      "MALTEADA": ["FRESA", "CHOCOMENTA", "MAZAPÁN"],
+      "SODA ITALIANA": [
+        "PIÑA & COCO",
+        "LIMÓN & JÍCAMA",
+        "MARACUYÁ",
+        "FRESA & ALBAHACA",
+        "MANZANA VERDE",
+        "MANGO"
+      ]
+    },
+    "POSTRES": ["MOUSSE", "VEGATINA", "HELL GIRL", "PAN DULCE"]
+  },
+
+  "IMG": {
+    "COMIDA": "Food",
+    "BEBIDAS": "Drink",
+    "POSTRES": "Dessert"
+  },
+
+  "PRICES": {
+    "MALICIA": 50,
+    "SOBERBIA": 50,
+    "GULA": 50,
+    "ALMA EN PENA": 65,
+    "ENCARCACIÓN": 65,
+    "BANANA LIMBO": 65,
+    "DELÍRIUM": 50,
+    "PARAÍSO PERDIDO": 70,
+    "JOCHOSLAW": 50,
+    "XOLOESCUINTLE": 65,
+    "PITBULL": 65,
+    "HACHIKO": 70,
+    "PASTOR ALEMÁN": 80,
+    "CHANQUE": 150,
+    "SODOMA": 130,
+    "LUJURIA": 150,
+    "ÁNGEL CAÍDO": 130,
+    "PURGATORIO": 150,
+    "TIKI-HAWAIANA": 140,
+    "MARGARITA": 110,
+    "FRESA": 50,
+    "CHOCOMENTA": 50,
+    "MAZAPÁN": 50,
+    "PIÑA & COCO": 45,
+    "LIMON & JÍCAMA": 45,
+    "MARACUYÁ": 45,
+    "FRESA & ALBAHACA": 45,
+    "LIMÓN & JÍCAMA": 45,
+    "MANZANA VERDE": 45,
+    "MANGO": 45,
+    "MOUSSE": 30,
+    "VEGATINA": 25,
+    "HELL GIRL": 50,
+    "PAN DULCE": 15
+  }
+}
